@@ -5,4 +5,4 @@
 
 ## hosted on netlify
 
-url: 
+url: https://cocky-turing-ce3afb.netlify.app/
